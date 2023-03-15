@@ -3,12 +3,13 @@
 ## Framwork and Language use in this Project
 * Springboot 
 * java
+* Hibernate
 ## Dependencies
 * Spring Web
 * MySql Database
-* hibernate
 * lombok
 * jpa 
+* Spring dev tools 
 * validation
 ## Flow of project
 ## Create four layers model , service , controller, repository.
